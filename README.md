@@ -1,0 +1,1 @@
+# *Since I am learning the spring backend and several java sources are available for it, it will initially be made using java, but in the future I plan to switch to Kotlin*
